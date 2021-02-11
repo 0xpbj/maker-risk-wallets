@@ -1,0 +1,15 @@
+{
+  "NameAddressList": [
+    {"name": "Curve.fi: DAI/USDC/USDT Pool", "address": "0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7"}, 
+    {"name": "Curve.fi: TUSD USDT USDC DAI", "address": "0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51"}, 
+    {"name": "SushiSwap LP Token", "address": "0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f"}, 
+    {"name": "Curve.fi: sUSD v2", "address": "0xa5407eae9ba41422680e2e00537571bcc53efbfd"}, 
+    {"name": "Uniswap V2: BAC-DAI", "address": "0xd4405f0704621dbe9d4dea60e128e0c3b26bddbd"}, 
+    {"name": "Basis Cash DAI-BAS", "address": "0x0379da7a5895d13037b6937b109fa8607a659adf"}, 
+    {"name": "Curve.fi: BUSD Swap", "address": "0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27"}, 
+    {"name": "BarnBridge: Staking Contract", "address": "0xb0fa2beee3cf36a7ac7e99b885b48538ab364853"}, 
+    {"name": "Curve.fi: PAX Swap", "address": "0x06364f10b501e868329afbc005b3492902d6c763"}, 
+    {"name": "Curve.fi: USDT USDC DAI", "address": "0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c"}, 
+    {"name": "YFV SNTVT/DAI", "address": "0x8f3f62a8337984ccb8a512c8a6408df71c23ffd3"}
+  ]
+}
